@@ -1,8 +1,8 @@
-Uses Langchain
-Uses OpenAI
-Uses Chromadb
-Uses Collection
-Beginner freindly code
-can edit the code for making it read multiple documents, multiple types of files
-can edit the financial_analysis code to any other analysis code based on the link you want to do a research
-query processing needs to be done by you, depending on the requirement you have palced
+1 - Uses Langchain
+2 - Uses OpenAI
+3 - Uses Chromadb
+4 - Uses Collection
+5 - Beginner freindly code
+6 - Can edit the code for making it read multiple documents, multiple types of files
+7 - Can edit the financial_analysis code to any other analysis code based on the link you want to do a research
+8 - Query processing needs to be done by you, depending on the requirement you have placed
